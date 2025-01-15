@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**LeoooKang/LeoooKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hi, This a info about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on GDUT, *Mechanical design and manufacturing and automation*
+- 🌱 I’m currently learning English, Linear Algebra, Probability, and CS(like how to use GitHub)
+- 🤔 I’m looking for help with the best R course
+- 💬 Ask me about any thing
+- 📫 How to reach me: kangzy8@gmail.com
+- 😄 Pronouns: Knowledge isn't free, you have to pay attention~
+
+🏀  📖  🏃
